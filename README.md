@@ -19,6 +19,6 @@ Dengan langkah-langkah ini, Anda dapat menjalankan aplikasi di komputer Anda tan
 
 Berikut adalah tampilan dari aplikasi Windows Form yang kami buat:
 
-![Tampilan Aplikasi]("D:\Screenshots\Screenshot 2024-12-02 102124.png")
+![Tampilan Aplikasi]("TampilanAplikasi.png")
 
 
