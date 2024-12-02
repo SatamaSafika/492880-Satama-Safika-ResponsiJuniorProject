@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVFAFAMvr7JaRmaz8BfiuQqKWIAIAHOzg74Q8iVvn8CsdHdhqV+AIb9MDAIDRPo0Nu46KCVwkk6W65uTwxw96g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teknik Kimia\\OneDrive\\Documents\\Satama Safika\\ResponsiSS\\ResponsiSS\\ResponsiSS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teknik Kimia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Teknik Kimia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Teknik Kimia\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512",
+    "C:\\Users\\Teknik Kimia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\Teknik Kimia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Teknik Kimia\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Teknik Kimia\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
