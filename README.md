@@ -15,3 +15,10 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi Windows Form:
 
 Dengan langkah-langkah ini, Anda dapat menjalankan aplikasi di komputer Anda tanpa kendala.
 
+## Aplikasi Windows Form
+
+Berikut adalah tampilan dari aplikasi Windows Form yang kami buat:
+
+![Tampilan Aplikasi]("D:\Screenshots\Screenshot 2024-12-02 102124.png")
+
+
